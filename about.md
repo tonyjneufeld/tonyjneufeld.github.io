@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Just trying to figure things out
 
-### More Information
+Mostly plant-based. I love animals and our environment. 
 
-A place to include any other types of information that you'd like to include about yourself.
+Family, dogs, e-bikes, board sports, disc golf, frisbee, coding, and are my life.
+
+Tech is my work.
 
 ### Contact me
 
