@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tony Neufeld
+title: First Post
 ---
 
 Testing the site, and how commits work.
