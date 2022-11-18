@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-##### Sales Compensation Manager at ThoughtExchange. I haven't done anything else noteworthy enough to add it to my tagline.
+##### Sales Compensation Manager at ThoughtExchange. 
+##### I haven't done anything noteworthy enough to add it to my tagline.
 
 ---
 
@@ -12,7 +13,7 @@ Tony is a sales compensation nerd who is living in the flat, cold, and dark part
 
 1. Family (including my dog named Birdie)
 
-And the rest of my life... that follow in no particular order:
+And the rest of his life... in no particular order:
 
 - traveling
 - e-bikes
