@@ -17,7 +17,7 @@ Not completing any of these ideas comes with a few problems:
 - I feel like I am a failure because I am not fully completing anything
 - I miss out on exploring cool ideas with potential
 
-The **purpose** of this website is ==to explore ideas, blog about life, and write about topics that interest me==. The intent of the site is enjoyment, and helping others if they find anything interesting or worthwhile. 
+The **purpose** of this website is to explore ideas, blog about life, and write about topics that interest me. The intent of the site is enjoyment, and helping others if they find anything interesting or worthwhile. 
 
 My life is:
 
