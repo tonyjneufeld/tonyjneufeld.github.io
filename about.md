@@ -4,30 +4,26 @@ title: About
 permalink: /about/
 ---
 
-##### Sales Compensation Manager at ThoughtExchange. 
-##### I haven't done anything noteworthy enough to add it to my tagline.
+##### Living in the flat, cold, and dark part of Canada.
 
 ---
 
-Tony is a sales compensation nerd who is living in the flat, cold, and dark part of Canada.
+I am that person who is constantly coming up with lots of little project ideas. Whether that be ideas for apps, websites, games, businesses; whatever. I have them stored in the back of my mind.
 
-Probably like you, Tony is that person who is constantly coming up with lots of little project ideas. Whether that be ideas for apps, websites, games, businesses; whatever. He has them stored in the back of his mind.
-
-The problem is he never seems to get round to completing them, or even starting them for that matter. The list just grows bigger and bigger.
+The problem is I never seems to get round to completing them, or even starting starting some of them for that matter. The list just grows bigger and bigger.
 
 Not completing any of these ideas comes with a few problems:
 
-- The list grows bigger and more daunting
-- He feels like a failure because he's not fully completing anything
-- He's missing out on exploring cool ideas with massive potential
+- I feel like I am a failure because I am not fully completing anything
+- I miss out on exploring cool ideas with potential
 
-The goal of this website is to explore these ideas, blog about life, and write about topics that interest him. The intent of the site is his enjoyment, and helping others if they find anything interesting. 
+The goal of this website is to explore these ideas, blog about life, and write about topics that interest me. The intent of the site is enjoyment, and helping others if they find anything interesting or worthwhile. 
 
-His life is:
+My life is:
 
-1. Family (including my dog named Birdie)
+1. Family (including my amazing dog)
 
-And the rest of his life... in no particular order:
+And the rest of my life... in no particular order:
 
 - traveling
 - e-bikes
@@ -37,6 +33,7 @@ And the rest of his life... in no particular order:
 - mentoring
 - frisbee
 - telling stories
+- digital minimalism
 - coding
 - curling
 - golf
