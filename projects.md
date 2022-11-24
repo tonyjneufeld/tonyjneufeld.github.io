@@ -8,9 +8,9 @@ permalink: /projects/
 
 ---
 
-- Project 2: FIRE (financial independence, retire early) Dashboard using Streamlit.io (in progress)
-- Project 1: Sequence Board Game AI (in progress)
-- Project 0: Minimalist Personal Blog (complete)
+- [] Project 2: FIRE (financial independence, retire early) Dashboard using Streamlit.io
+- [] Project 1: Sequence Board Game AI
+- [x] Project 0: Minimalist Personal Blog
 
 ---
 

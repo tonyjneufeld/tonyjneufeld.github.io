@@ -4,20 +4,20 @@ title: About
 permalink: /about/
 ---
 
-##### Living in the flat, cold, and dark part of Canada.
+##### Living in the *flat*, *cold*, and *dark* part of **Canada**.
 
 ---
 
-I am that person who is constantly coming up with lots of little project ideas. Whether that be ideas for apps, websites, games, businesses; whatever. I have them stored in the back of my mind.
+I am that person who is **constantly** coming up with lots of little project ideas. Whether that be ideas for apps, websites, games, businesses; whatever. I have them stored in the back of my mind.
 
-The problem is I never seems to get round to completing them, or even starting starting some of them for that matter. The list just grows bigger and bigger.
+The problem is I never seems to get round to completing them, or even starting starting some of them for that matter. The list just grows *bigger and bigger*.
 
 Not completing any of these ideas comes with a few problems:
 
 - I feel like I am a failure because I am not fully completing anything
 - I miss out on exploring cool ideas with potential
 
-The goal of this website is to explore these ideas, blog about life, and write about topics that interest me. The intent of the site is enjoyment, and helping others if they find anything interesting or worthwhile. 
+The **purpose** of this website is ==to explore ideas, blog about life, and write about topics that interest me==. The intent of the site is enjoyment, and helping others if they find anything interesting or worthwhile. 
 
 My life is:
 
