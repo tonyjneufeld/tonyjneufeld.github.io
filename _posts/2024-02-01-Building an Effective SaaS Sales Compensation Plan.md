@@ -2,7 +2,6 @@
 layout: post
 title: Building an Effective SaaS Sales Compensation Plan
 ---
-# Building an Effective SaaS Sales Compensation Plan
 
 ## TL;DR
 Design SaaS sales compensation plans that align with business goals, incentivize desired behaviors, and balance base salaries with performance-based rewards.
