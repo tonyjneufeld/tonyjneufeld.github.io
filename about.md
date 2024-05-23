@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About Tony Neufeld Consulting
-
 Tony Neufeld Consulting is a dynamic and innovative firm specializing in sales compensation and performance management. Our mission is to empower businesses by creating and implementing strategic sales compensation plans that drive peak performance, enhance motivation, and achieve exceptional results.
 
 ## Our Mission
