@@ -26,3 +26,9 @@ Designing an effective SaaS sales compensation plan is crucial for driving perfo
 
 ## Conclusion
 By simplifying your SaaS sales compensation plan and aligning it with your business objectives, you can effectively motivate your sales team, drive performance, and achieve long-term success. Implement these strategies to create a fair, transparent, and motivating compensation structure.
+
+**References**:
+- Queener, Brett. "SaaS Sales Compensation Simplified." LinkedIn. [Link to Article](https://www.linkedin.com/pulse/saas-sales-compensation-simplified-brett-queener/)
+- "How To Structure A SaaS Sales Compensation Plan." Breyta. [Link to Article]([https://www.breyta.io](https://breyta.io/touchpoints/saas-sales-compensation)
+- "SaaS Sales Compensation Strategy in 2024: The Do's & Dont's." Visdum. [Link to Article](https://www.visdum.com/blog/saas-sales-compensation-strategies)
+- "SaaS Sales Compensation: How to Design the Right Plan." Matrix Partners. [Link to Article](https://incentivatesolutions.com/blogs/guide-to-saas-sales-compensation-plan/#:~:text=Determining%20the%20right%20mix%20of,on%20an%20employee's%20sales%20performance.)
