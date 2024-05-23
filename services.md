@@ -95,4 +95,4 @@ Explore different compensation scenarios to find the optimal approach. Our scena
 
 Partner with Tony Neufeld Consulting to unlock the full potential of your sales compensation strategies. Our expert services are designed to provide you with the insights, tools, and support needed to drive peak performance and achieve exceptional business results.
 
-For more information, please contact us at [info@tonyneufeldconsulting.com](mailto:info@tonyneufeldconsulting.com).
+For more information, please contact us at [tonyjneufeld@gmail.com](mailto:tonyjneufeld@gmail.com).
