@@ -1,8 +1,12 @@
 - name: Home
   link: /
-- name: Projects
-  link: /projects/
+- name: Services
+  link: /services/
+- name: Work
+  link: /work/
 - name: About
   link: /about/
+- name: Contact
+  link: /contact/
 
 
