@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enhancing Your Sales Compensation Program: Key Strategies
+title: Enhancing Your Sales Compensation Program
 ---
 
 # Enhancing Your Sales Compensation Program: Key Strategies
