@@ -18,7 +18,7 @@ Calendly link: [click here to find a time that works for us](https://calendly.co
 Follow us on social media to stay updated with the latest news and insights: [LinkedIn](https://www.linkedin.com/in/tony-neufeld-050a0685/)
 
 ##### Office Hours
-Our office hours are Monday to Friday, 8:00 AM to 4:00 PM (CST).
+Our office hours are Monday to Thursday, 8:00 AM to 4:00 PM (CST).
 
 ---
 
