@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Work
+permalink: /work/
 ---
 
 ##### The list of all my little side projects that have been completed or are in progress.
