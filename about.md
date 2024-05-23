@@ -25,5 +25,3 @@ We believe in a pragmatic, data-driven approach to sales compensation. By levera
 At Tony Neufeld Consulting, we prioritize delivering exceptional client service and measurable results. We work closely with our clients, ensuring that they receive personalized attention and expert advice at every stage of the engagement. Our commitment to excellence, integrity, and innovation sets us apart and drives our success.
 
 We are dedicated to helping businesses achieve peak performance through strategic sales compensation planning. Let us partner with you to unlock your sales potential and drive your business forward.
-
-For more information, book a 30-minute free consultation: [tonyjneufeld@gmail.com](mailto:tonyjneufeld@gmail.com)
