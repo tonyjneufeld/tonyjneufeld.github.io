@@ -4,16 +4,23 @@ title: Contact
 permalink: /contact/
 ---
 
-##### The list of all my little side projects that have been completed or are in progress.
+We would love to hear from you! Whether you have a question about our services, need assistance with your sales compensation plans, or want to discuss how we can help your business achieve peak performance, feel free to reach out to us.
 
----
+## Get in Touch
 
-- Project 2: FIRE (financial independence, retire early) Dashboard using Streamlit.io
-- Project 1: Sequence Board Game AI
-[x] Project 0: Minimalist Personal Blog
+### Email
+For general inquiries and support:  
+[info@tonyneufeldconsulting.com](mailto:info@tonyneufeldconsulting.com)
 
----
+### Book a free 30 minute consultation
+Calendly link: [info@tonyneufeldconsulting.com](mailto:info@tonyneufeldconsulting.com)
 
-##### Reach out
+### Social Media
+Follow us on social media to stay updated with the latest news and insights:
 
-[tonyjneufeld@gmail.com](mailto:tonyjneufeld@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/tony-neufeld-050a0685/)
+
+## Office Hours
+Our office hours are Monday to Friday, 8:00 AM to 4:00 PM (CST).
+
+We look forward to connecting with you!
