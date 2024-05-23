@@ -3,8 +3,6 @@ layout: post
 title: Enhancing Your Sales Compensation Program
 ---
 
-# Enhancing Your Sales Compensation Program: Key Strategies
-
 ## TL;DR
 Utilize Sales Performance Management (SPM) tools, revisit sales targets frequently, and incorporate a competency model to enhance your sales compensation program.
 
