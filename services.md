@@ -4,10 +4,13 @@ title: Services
 permalink: /services/
 ---
 
-
 At Tony Neufeld Consulting, we specialize in delivering comprehensive sales compensation solutions designed to drive performance, enhance motivation, and achieve exceptional business results. Our tailored services are crafted to meet the unique needs of each client, ensuring you get the maximum value from your investment.
 
+---
+
+
 ## Retainer-Based Consulting
+
 
 ### Ongoing Advisory
 Receive continuous expert guidance to keep your sales compensation strategies aligned with your business goals. Our ongoing advisory services ensure you have the insights and support needed to adapt to changing market conditions and internal dynamics.
@@ -23,7 +26,12 @@ Develop and implement long-term strategies that align your sales compensation wi
 - Improved alignment of sales incentives with business goals.
 - Enhanced ability to adapt to market changes.
 
+---
+
+
 ## Managed Services
+
+
 
 ### Compensation Plan Management
 Delegate the complexities of managing your sales compensation plans to us. We handle everything from plan design and implementation to day-to-day management, ensuring your plans are executed flawlessly.
@@ -43,7 +51,13 @@ Adapt and refine your compensation plans as your business evolves. We provide on
 - Reduced risk of compliance issues and penalties.
 - Continuous plan optimization for better results.
 
-## Sales Compensation Tool Selection Work
+
+---
+
+
+## Sales Compensation Tool Selection
+
+
 
 ### Compensation Management Software Admin
 Choose and administer the right compensation management software to meet your needs. We help you select, implement, and manage software solutions that streamline your compensation processes.
@@ -75,7 +89,11 @@ Stay ahead of industry trends with our market trend analysis services. We help y
 - Optimized compensation strategies through performance analytics.
 - Proactive adjustments based on market trends.
 
+---
+
+
 ## Custom Compensation Plan Design
+
 
 ### Custom Plan Development
 Design compensation plans tailored to your specific business needs and goals. Our custom plan development services ensure your incentives drive the right behaviors and outcomes.
@@ -91,7 +109,9 @@ Explore different compensation scenarios to find the optimal approach. Our scena
 - Continuous optimization of compensation strategies.
 - Informed decision-making with scenario modeling.
 
+
 ---
+
 
 Partner with Tony Neufeld Consulting to unlock the full potential of your sales compensation strategies. Our expert services are designed to provide you with the insights, tools, and support needed to drive peak performance and achieve exceptional business results.
 
