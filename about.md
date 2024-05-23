@@ -26,4 +26,4 @@ At Tony Neufeld Consulting, we prioritize delivering exceptional client service 
 
 We are dedicated to helping businesses achieve peak performance through strategic sales compensation planning. Let us partner with you to unlock your sales potential and drive your business forward.
 
-For more information, please visit our website or contact us [tonyjneufeld@gmail.com](mailto:tonyjneufeld@gmail.com)
+For more information, book a 30-minute free consultation: [tonyjneufeld@gmail.com](mailto:tonyjneufeld@gmail.com)
