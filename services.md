@@ -53,7 +53,7 @@ Adapt and refine your compensation plans as your business evolves. We provide on
 
 
 
-**Sales Compensation Management Software**
+**Sales Compensation Management Software:**
 Choose and administer the right compensation management software to meet your needs. We help you select, implement, and manage software solutions that streamline your compensation processes.
 
 **Analytics Tools:**
