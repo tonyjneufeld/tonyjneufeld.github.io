@@ -1,10 +1,10 @@
 ---
 layout: post
-title: SaaS Account Executive Sales Compensation Plan Design
+title: Simple SaaS Account Executive Sales Compensation Plan Design
 ---
 
 ## 1. Overview
-This Sales Compensation Plan is designed to incentivize and reward Account Executives (AEs) for achieving sales targets and contributing to the company’s growth objectives. The plan is structured to ensure alignment with the company's revenue goals, customer acquisition, and retention strategies.
+This Sales Compensation Plan is designed to incentivize and reward Account Executives (AEs) for achieving sales targets and contributing to the company’s growth objectives. The plan is structured to ensure alignment with the company's revenue goals.
 
 ## 2. On-Target Earnings (OTE)
 - **Total OTE**: $200,000
@@ -15,14 +15,13 @@ This Sales Compensation Plan is designed to incentivize and reward Account Execu
 - **New Business Commission**: 10% of ARR from new customers (Annual Variable/Annual Quota).
 
 ## 4. Quota
-- **Annual Quota**: $1,000,000 in new ARR
-- **Quarterly Quota**: $250,000 in new ARR, build in seasonality
+- **Annual Quota**: $1,000,000 in new ARR, ensure to build in coverage over budget (or offer quarterly quota if business has a better understanding of seasonality)
 
 ## 5. Accelerators
 - **Quota Achievement Accelerator**:
   - 100-110% of quota: Additional 2% commission on ARR
   - 110-120% of quota: Additional 5% commission on MRR
-  - 120%+ of quota: Additional 10% commission on MRR
+  - 120%+ of quota: Additional 10% commission on ARR
 
 ## 6. Payment Terms
 - **Commission Payout**: Monthly, following the close of the business and receipt of payment from customers.
