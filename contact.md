@@ -9,7 +9,7 @@ We would love to hear from you! Whether you have a question about our services, 
 ---
 
 ##### Email
-For general inquiries and support: [info@tonyneufeldconsulting.com](mailto:info@tonyneufeldconsulting.com)
+For general inquiries and support: [tonyjneufeld@gmail.com](mailto:tonyjneufeld@gmail.com)
 
 ##### Book a free 30-minute consultation
 Calendly link: [click here to find a time that works for us](https://calendly.com/tonyneufeldconsulting)
