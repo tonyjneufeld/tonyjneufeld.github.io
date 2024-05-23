@@ -15,12 +15,12 @@ This Sales Compensation Plan is designed to incentivize and reward Account Execu
 - **New Business Commission**: 10% of ARR from new customers (Annual Variable/Annual Quota).
 
 ## 4. Quota
-- **Annual Quota**: $1,000,000 in new ARR, ensure to build in coverage over budget (or offer quarterly quota if business has a better understanding of seasonality)
+- **Annual Quota**: $1,000,000 in new ARR *ensure to build in coverage over budget (or offer quarterly quota if business has a better understanding of seasonality)
 
 ## 5. Accelerators
 - **Quota Achievement Accelerator**:
   - 100-110% of quota: Additional 2% commission on ARR
-  - 110-120% of quota: Additional 5% commission on MRR
+  - 110-120% of quota: Additional 5% commission on ARR
   - 120%+ of quota: Additional 10% commission on ARR
 
 ## 6. Payment Terms
