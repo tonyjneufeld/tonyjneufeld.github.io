@@ -10,13 +10,7 @@ Tony Neufeld Consulting is a dynamic and innovative firm specializing in sales c
 We aim to help businesses unlock their full potential by aligning sales compensation with organizational goals. Through our expert guidance and customized solutions, we strive to improve sales productivity, foster a motivated sales force, and ultimately drive business growth.
 
 ## Our Services
-At Tony Neufeld Consulting, we offer a comprehensive range of services tailored to meet the unique needs of each client. Our offerings include:
-
-- **Sales Compensation Plan Design:** Crafting tailored compensation plans that incentivize and reward desired sales behaviors.
-- **Performance Monitoring and Analytics:** Providing ongoing analysis and adjustments to ensure compensation plans remain effective and aligned with business objectives.
-- **Strategic Planning and Implementation:** Developing and executing long-term strategies that support sustained sales performance.
-- **Sales Role and Organization Design:** Structuring sales teams and roles to maximize efficiency and effectiveness.
-- **Quota Setting and Management:** Establishing realistic and motivating sales targets to drive performance.
+At Tony Neufeld Consulting, we offer a comprehensive range of services tailored to meet the unique needs of each client. Check out the Services page for more details.
 
 ## Our Approach
 We believe in a pragmatic, data-driven approach to sales compensation. By leveraging the latest technologies and industry best practices, we provide actionable insights that enable our clients to make informed decisions and achieve their strategic goals. Our methodologies are grounded in extensive research and tailored to the specific needs of each client, ensuring that our solutions are both practical and impactful.
