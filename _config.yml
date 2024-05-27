@@ -10,9 +10,9 @@ title: Tony Neufeld Consulting
 
 # Link to avatar in the navbar (/assets/images/avatar.png). Leave empty if no logo desired. Two avatars for light and dark mode.
 # Avatar for light mode site
-lightavatar: /tnc_logo.png
+lightavatar: tnc_logo.png
 # Avatar for dark mode site
-darkavatar: /tnc_logo.png
+darkavatar: tnc_logo.png
 
 # A short description (e.g., A blog dedicated to reviewing cat gifs), used as part of the title tag like Ben's Awesome Site | A blog dedicated to reviewing cat gifs instead of Ben's Awesome Site | Long description about a blog dedicated to reviewing cat gifs that would be used when page.title is not defined.
 tagline: Tony Neufeld Consulting
@@ -33,7 +33,7 @@ baseurl: ""
 author: tony-neufeld
 
 # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
-logo: /tnc_logo.png
+logo: tnc_logo.png
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
