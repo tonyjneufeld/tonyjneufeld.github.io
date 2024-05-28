@@ -49,9 +49,9 @@ Adapt and refine your compensation plans as your business evolves. We provide on
 - Reduced risk of compliance issues and penalties.
 - Continuous plan optimization for better results.
 
-**Estimated Rate:** $150 - $250 per hour. Please contact for more details.
+**Estimated Rate:** $150 - $250 per hour. Or monthly processing option. Please contact for more details.
 
-Managed services require hands-on management and technical expertise. This rate accounts for the detailed work involved in managing and adjusting compensation plans, ensuring compliance, and ensuring accurate and timely compensation payments.
+Tony Neufeld is a certified CaptivateIQ administrator. Managed services require hands-on management and technical expertise. This rate accounts for the detailed work involved in managing and adjusting compensation plans, ensuring compliance, and ensuring accurate and timely compensation payments.
 
 ---
 
