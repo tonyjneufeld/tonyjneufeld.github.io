@@ -26,7 +26,7 @@ Develop and implement long-term strategies that align your sales compensation wi
 - Improved alignment of sales incentives with business goals.
 - Enhanced ability to adapt to market changes.
 
-**Estimated Rate:** $200 - $300 per hour
+**Estimated Rate:** Please contact for additional details.
 
 With 7 years of experience, we provide deep expertise in sales compensation strategies, offering valuable ongoing advisory and strategic planning services. This rate reflects the high value of continuous, expert support.
 
@@ -49,7 +49,7 @@ Adapt and refine your compensation plans as your business evolves. We provide on
 - Reduced risk of compliance issues and penalties.
 - Continuous plan optimization for better results.
 
-**Estimated Rate:** $150 - $250 per hour
+**Estimated Rate:** $150 - $250 per hour. Please contact for more details.
 
 Managed services require hands-on management and technical expertise. This rate accounts for the detailed work involved in managing and adjusting compensation plans, ensuring compliance, and ensuring accurate and timely compensation payments.
 
@@ -74,7 +74,7 @@ Ensure seamless integration of your compensation management tools with other bus
 - Data-driven insights for better decision-making.
 - Seamless integration with existing systems.
 
-**Estimated Rate:** $150 - $250 per hour
+**Estimated Rate:** Project based rate. Please contact for additional details.
 
 Selecting and managing compensation tools involves both technical knowledge and practical experience in software implementation and integration. The rate reflects the technical skills and experience necessary to effectively manage the selection process.
 
@@ -98,7 +98,7 @@ Stay ahead of industry trends with our market trend analysis services. We help y
 - Optimized compensation strategies through performance analytics.
 - Proactive adjustments based on market trends.
 
-**Estimated Rate:** $200 - $300 per hour
+**Estimated Rate:** $150 - $250 per hour. Please contact for more details.
 
 Providing data and analytics services requires a strong analytical background and the ability to interpret complex data sets. This rate reflects the expertise needed to deliver valuable insights through detailed analytics and benchmarking.
 
@@ -122,7 +122,7 @@ Explore different compensation scenarios to find the optimal approach. Our scena
 - Continuous optimization of compensation strategies.
 - Informed decision-making with scenario modeling.
 
-**Estimated Rate:** $200 - $300 per hour
+**Estimated Rate:** Project based rate. Please contact for additional details.
 
 Designing custom compensation plans involves a high level of strategic thinking and practical application. The rate reflects the complexity and value of creating tailored compensation solutions that meet specific business needs.
 
